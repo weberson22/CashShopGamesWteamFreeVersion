@@ -1,4 +1,4 @@
-# Cash Shop Editor Guide
+# Cash Shop Editor Guide For Mu Online
 
 ![Cash Shop Editor Preview](https://i.imgur.com/03Uj2o7.png)
 
